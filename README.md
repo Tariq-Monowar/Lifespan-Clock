@@ -16,4 +16,4 @@ The Lifespan Countdown Clock is a mobile app built using React Native that helps
 1. Clone this repository to your local machine.
 2. Install necessary dependencies using npm install or yarn install.
 3. Start the development server using npm start or yarn start.
-4. Run the app on an emulator or physical device.
+4. Run the app on an emulator or physical device. 
